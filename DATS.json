@@ -1,0 +1,197 @@
+{
+    "title": "SubSupAuditory",
+    "description": "",
+    "dates": [
+        {
+            "date": "2020-11-13 00:00:00",
+            "type": {
+                "value": "start date"
+            }
+        },
+        {
+            "date": "2021-07-19 00:00:00",
+            "type": {
+                "value": "end date"
+            }
+        }
+    ],
+    "creators": [
+        {
+            "name": "Laval University"
+	},
+    {
+            "name": "Philippe Albouy",
+            "roles": [
+                {
+                    "value": "Principal Investigator"
+                }
+            ]
+        },
+        {
+            "name": "Nicola Thibault",
+            "roles": [
+                {
+                    "value": "Contributor"
+                }
+            ]
+        }
+    ],
+    "types": [
+        {
+            "information": {
+                "value": "electroencephalography",
+                "valueIRI": "http://uri.interlex.org/base/ilx_0741211"
+            }
+        }
+    ],
+    "version": "1.0",
+    "privacy": "registered",
+    "distributions": [
+        {
+            "formats": [
+                "EDF",
+                "JSON"
+            ],
+            "size" : 14.7,
+            "unit" : {
+                "value": "GB"
+            },
+            "access" : {
+                "landingPage" : "https://portal.cbrain.mcgill.ca/userfiles/4986581",
+				"authorizations": [
+					{
+						"value": "registered"
+					}
+				]
+            }
+        }
+    ],
+    "isAbout": [
+		{
+      		"name": "Homo sapiens",
+     		"identifier": {
+        		"identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        		"identifierSource": "NCBI Taxonomy Database"
+			}
+    	}
+    ],
+    "spatialCoverage": [
+        {
+            "name": "North America",
+            "description": ""
+        }
+    ],
+    "licenses": [
+        {
+            "@type": "License",
+            "name": "CC-BY",
+            "version": "4.0"
+        }
+    ],
+    "keywords": [
+        {
+        	"value": "eeg"
+	},
+	{
+		"value": "time"
+	},
+	{
+		"value": "perception"
+        },		
+	{
+		"value": "intervals"
+        },		
+	{
+		"value": "oddball"
+	}
+    ],
+	"primaryPublications" : [
+		{
+            "identifier" : {
+				"identifier": ""
+			}
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "Total number of sessions",
+            "values": [
+                {
+                    "value": "2"
+                }
+            ]
+        },
+		{
+			"category": "logo",
+			"values": [
+				{
+					"value": "eegnet-logo_0.png"
+				}
+			]
+		},
+		{
+			"category": "CONP_status",
+			"values": [
+				{
+					"value": "Canadian"
+				}
+			]
+		},
+		{
+			"category": "files",
+			"values": [
+				{
+					"value": "2577"
+				}
+			]
+		},
+		{
+			"category": "subjects",
+			"values": [
+				{
+					"value": "20"
+				}
+			]
+		},
+        {
+            "category": "origin_institution",
+            "values": [
+                {
+                    "value": "Laval University"
+                }
+            ]
+        },
+        {
+            "category": "origin_city",
+            "values": [
+                {
+                    "value": "Quebec"
+                }
+            ]
+        },
+        {
+            "category": "origin_province",
+            "values": [
+                {
+                    "value": "Quebec"
+                }
+            ]
+        },
+		{
+			"category": "registrationPage",
+      		"values": [
+       			 {
+          			"value": "https://eegnet.loris.ca/"
+        		}
+			]
+    	},
+        {
+            "category": "origin_country",
+            "values": [
+                {
+                    "value": "Canada"
+                }
+            ]
+        }
+    ]
+}
