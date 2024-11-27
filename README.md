@@ -35,9 +35,6 @@ n/a
 **Primary Publication**\
 Thibault, N., Albouy, P. & Grondin, S. Distinct brain dynamics and networks for processing short and long auditory time intervals. Sci Rep 13, 22018 (2023). https://doi.org/10.1038/s41598-023-49562-8
 
-**Research Paper Link**\
-https://www.nature.com/articles/s41598-023-49562-8#Sec3
-
 **Acknowledgements**\
 This work was supported by a scholarship from the National Sciences and Engineering Research Council of Canada (NSERC) to NT, a grant from Fonds de Recherche du Québec—Santé to P.A., and NSERC Discovery grants to P.A. and S.G.
 
