@@ -97,10 +97,10 @@
 	},
 	{
 		"value": "perception"
-        },		
+        },
 	{
 		"value": "intervals"
-        },		
+        },
 	{
 		"value": "oddball"
 	}
@@ -174,6 +174,14 @@
             "values": [
                 {
                     "value": "Quebec"
+                }
+            ]
+        },
+{
+            "category": "origin_consortium",
+            "values": [
+                {
+                    "value": "EEGnet"
                 }
             ]
         },
